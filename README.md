@@ -149,7 +149,7 @@ harry potter <3
 • sarcasm is normal  
 • silence = comfort  
 • don’t make rumors or drama  
-
+• i make suggestive and dark jokes 
 ---
 
 ## 𓏵 dni <a id="dni"></a>
