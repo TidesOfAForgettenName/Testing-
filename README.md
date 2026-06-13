@@ -207,11 +207,11 @@ fictionkins
 </a>
 
 <a href="LINK">
-  <img src="https://img.shields.io/badge/friend-virae-0f4c75?style=for-the-badge">
+  <img src="https://img.shields.io/badge/friend-virae-d0f4ff?style=for-the-badge">
 </a>
 
 <a href="LINK">
-  <img src="https://img.shields.io/badge/friend-mikyii-0f4c75?style=for-the-badge">
+  <img src="https://img.shields.io/badge/friend-mikyii-3a86ff?style=for-the-badge">
 </a>
 
 </div>
