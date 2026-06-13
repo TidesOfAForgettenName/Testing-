@@ -72,7 +72,7 @@ The Outcasts (MC SMP)
 Genshin  
 Gluttomy  
 Dandy's World  
-13 Cards  
+13 Cards ! 
 ALNST  
 Dungeon Meshi  
 Spy x Family  
@@ -87,7 +87,10 @@ Harry Potter <3
 • i warm up slowly  
 • sarcasm is normal  
 • silence = comfort  
-• i make dark / suggestive jokes  
+• i make dark / suggestive jokes
+• Please iwec or block me if you feel uncomf with me 
+• i make puns ( if you don't like em pls tell me )
+• don't colorpick my ponies . heavy inspo is allowed 
 
 ---
 
