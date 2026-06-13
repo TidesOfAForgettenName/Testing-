@@ -5,9 +5,9 @@
 
 ✦ R I V O L E T T ✦
 「 Tides of a Forgotten name 」
-
+<p align="center">
 ═══════════════════════════════
-
+</p>
 <p align="center">
   Haiaia, I'm zelei / renryn or mainly zel !
 </p>
