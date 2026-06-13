@@ -216,6 +216,9 @@ fictionkins
 <a href="https://discord.com/users/thepantallate.shipper">
   <img src="https://img.shields.io/badge/Discord-thepantallate.shipper-3a86ff?style=for-the-badge&logo=discord&logoColor=ffffff">
 </a>
+<a href="https://github.com/TidesOfAForgettenName/-art-gallery">
+  <img src="https://img.shields.io/badge/art%20page-view-1b2a41?style=for-the-badge">
+</a>
 
 </div>
 
