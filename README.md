@@ -14,7 +14,7 @@
 
 <a href="#about-me">about me</a> • 
 <a href="#int">int</a> • 
-<a href="#byi">byi</a> • ![.](https://media.tenor.com/3QX6Qw8n8hEAAAAC/water-ripple.gif)
+<a href="#byi">byi</a> • 
 <a href="#dni">dni</a> • 
 <a href="#kin">kin</a> • 
 <a href="#status">status</a>
@@ -28,7 +28,7 @@
 │ MOOD: selective / drifting     │  
 │ LOCATION: GMT+8               │  
 ╰───────────────────────────────╯  
-
+ ![.](https://media.tenor.com/3QX6Qw8n8hEAAAAC/water-ripple.gif)
 ---
 
 <img src="https://media.tenor.com/3QX6Qw8n8hEAAAAC/water-ripple.gif" width="250">
