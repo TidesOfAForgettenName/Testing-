@@ -6,7 +6,7 @@
 🌊 thinking about Rivolett
 ⚓ disappeared
 
-</details>---
+</details>--
 
 <!-- currently --><div align="center">NOW PLAYING
 
@@ -16,6 +16,6 @@
 
 </div>---
 
-<!-- quote --><div align="center">"water remembers."
+!-- quote --><div align="center">"water remembers."
 
 </div>
