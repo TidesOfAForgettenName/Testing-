@@ -22,10 +22,9 @@
 ---
 
 ╭──────── SYSTEM STATUS ────────╮  
-│ USER: profile entity          │  
+│ USER: Zelei / Renryn          │  
 │ ROLE: artist / yumeshipper    │  
-│ VISUAL: hydro visioner 🌧️      │  
-│ STATE: fluctuating tides      │  
+│ STATE: mentally stable ig     │  
 │ MOOD: selective / drifting     │  
 │ LOCATION: GMT+8               │  
 ╰───────────────────────────────╯  
@@ -88,7 +87,7 @@ __ *hyd*__ro__ __visione__*r*
 <div align="center">
 
 ╭──────── CURRENT STATE ────────╮  
-│ mood: fluctuating tides 🌧️     │  
+│ mood: tired / bored asf 🌧️     │  
 │ energy: creative bursts        │  
 │ social: selective              │  
 │ mental: drifting               │  
