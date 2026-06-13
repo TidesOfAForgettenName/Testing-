@@ -3,6 +3,9 @@
 <div align="center">
 
 # ﹑⟡ 　　﹒ 　 *__ki__*el**’s　*__tru__*ly*﹒　~~*i*nt~~*ro* ◞
+<a href="LINK">
+  <img src="https://img.shields.io/badge/mylove-kiel-0f4c75?style=for-the-badge">
+</a>
 
 > *__trans__* gen**der** ⠀　﹒ 　⠀<abbr title="he / him">*__h_*e* / __him__</abbr>　
 >
