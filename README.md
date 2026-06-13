@@ -56,7 +56,8 @@ __malay__*sian* __!__
 • I will yap for hours  
 • i prefer quiet interaction  
 • i will draw your oc when I have time  
-
+• I LOVE GIFTING PONIES
+• i do animations heh
 ---
 
 ## 𓏵 int <a id="int"></a>
