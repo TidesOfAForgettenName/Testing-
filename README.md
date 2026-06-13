@@ -229,6 +229,3 @@ fictionkins
 𓇼 𓆉 𓇼
 
 </div>
-<a href="https://github.com/TidesOfAForgettenName/-art-gallery">
-  <img src="https://img.shields.io/badge/art%20page-view-1b2a41?style=for-the-badge">
-</a>
