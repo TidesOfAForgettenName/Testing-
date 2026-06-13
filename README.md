@@ -8,8 +8,10 @@
 
 ═══════════════════════════════
 
-Small introduction
-he/him • artist • malaysia • GMT+8
+<p align="center">
+  Haiaia, I'm zelei / renryn or mainly zel !
+</p>
+_he_/*hi*_m_ • *art*_ist_ • malaysia • GMT+8
 
 ✦ divider ✦
 
@@ -104,12 +106,4 @@ Character list
 
 Extra facts
 Fun facts
-Random trivia
 
-═══════════════════════════════
-
-"The rain falls.
-The river changes.
-I remain."
-
-═══════════════════════════════
