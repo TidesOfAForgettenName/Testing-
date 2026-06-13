@@ -39,7 +39,7 @@
 __malay__*sian* __!__  
 .__GMT__ *8*+ ._  
 **15** __aug__ ˘ᗜ˘
-
+            ![.](https://media.tenor.com/3QX6Qw8n8hEAAAAC/water-ripple.gif)
 </div>
 
 ---
