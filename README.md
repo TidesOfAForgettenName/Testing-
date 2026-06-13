@@ -191,7 +191,27 @@ fictionkins
 • finn  
 
 ---
+## 𓏵 close friends <a id="friends"></a>
 
+<div align="center">
+
+<a href="LINK">
+  <img src="https://img.shields.io/badge/friend-nicolby-1b2a41?style=for-the-badge">
+</a>
+
+<a href="LINK">
+  <img src="https://img.shields.io/badge/friend-kasael-0f4c75?style=for-the-badge">
+</a>
+
+<a href="LINK">
+  <img src="https://img.shields.io/badge/friend-virae-0f4c75?style=for-the-badge">
+</a>
+
+<a href="LINK">
+  <img src="https://img.shields.io/badge/friend-mikyii-0f4c75?style=for-the-badge">
+</a>
+
+</div>
 <div align="center">
 
 <3　﹒ ︵︵  
